@@ -26,9 +26,9 @@ If you feel depressed, bored or need some advice, then checkout this project
 | :-------- | :------- | :---------------------------------- |
 | `id`      | `string` | **Required**. Id of advice to fetch |
 
-## Authors
+## Author
 
-- [@deriking01](https://www.github.com/dericking01)
+- [@dericking01](https://www.github.com/dericking01)
 
 
 
